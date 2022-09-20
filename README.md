@@ -4,3 +4,6 @@
 ![WebPageAddItem](https://user-images.githubusercontent.com/89872937/191172427-6f52adad-4b3f-4b37-a060-1c7d3982f793.PNG)
 ![WebPageListItems](https://user-images.githubusercontent.com/89872937/191172430-402a0af9-76d9-464b-85f5-4692d49bf89f.PNG)
 ![WebpageDeleteItem](https://user-images.githubusercontent.com/89872937/191172433-3b29affc-980e-4f7b-b304-942ba7660406.PNG)
+
+
+This project is a Java based Web App deployed to a local Apache Tomcat Server that allows a user to add an item to a To Do List and then delete that item from the To Do List. The To Do List is saved in a local MySQL database using the Hibernate Framework. 
